@@ -2,8 +2,6 @@
 # Full-Blog
 It's a full stack blog platfrom Have features such as registering new user, logging in the account, post new articles and edit and update and delete
 the article written by that particular user and can also upgrade the user-profile.
-# register
-![image](https://user-images.githubusercontent.com/59612128/152698458-8a58ed94-1dff-4f34-aae8-815381228289.png)
 
 # Login 
 ![image](https://user-images.githubusercontent.com/59612128/152698515-27bcac9c-7850-403b-ac02-ecaecceab0e6.png)
